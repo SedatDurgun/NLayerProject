@@ -1,0 +1,36 @@
+﻿@using ApplicationLayer.Models.ViewModels
+@model KategoriVM
+
+<h1>Kategori Ekleme Sayfası</h1>
+
+<div style="width:400px; background:gray" >
+<form method="post" asp-controller="Kategori" asp-action="KategoriEkle" >
+
+    <table border="1" class="table" >
+
+
+           
+        <tr>
+            <td><label asp-for="KategoriAdi" ></label></td>
+                <td><input asp-for="KategoriAdi" class="form-control"  /></td>
+
+        </tr>
+
+        <tr>
+            <td>
+                <input type="submit" value="Kategori Ekle" class="btn btn-danger" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3" >
+                <div asp-validation-summary="All" ></div>
+            </td>
+        </tr>
+
+    </table>
+
+</form>
+
+
+</div>
+

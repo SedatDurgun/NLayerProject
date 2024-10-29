@@ -1,0 +1,56 @@
+﻿@using ApplicationLayer.Models.ViewModels
+@model YeniUyeEkleVM
+
+<form method="post" asp-action="YeniUyeEkle" >
+<table>
+
+    <tr>
+        <td><label asp-for="Ad"></label></td>
+        <td><input type="text" asp-for="Ad"  /> </td>
+        
+    </tr>
+    <tr>
+        <td><label asp-for="Soyad"></label></td>
+        <td><input type="text" asp-for="Soyad" /> </td>
+
+    </tr>
+
+    <tr>
+        <td><label asp-for="KullanıcıAdı"></label></td>
+        <td><input type="text" asp-for="KullanıcıAdı" /> </td>
+
+    </tr>
+    <tr>
+        <td><label asp-for="Eposta"></label></td>
+        <td><input type="email" asp-for="Eposta" /> </td>
+
+    </tr>
+    <tr>
+        <td><label asp-for="Sifre"></label></td>
+        <td><input type="password" asp-for="Sifre" /> </td>
+
+    </tr>
+    <tr>
+        <td><label asp-for="SifreTekrar"></label></td>
+        <td><input type="password" asp-for="SifreTekrar" /> </td>
+
+
+    </tr>
+    <tr>
+        <td><label asp-for="Adres"></label></td>
+        <td><input type="text" asp-for="Adres" /> </td>
+
+    </tr>
+    <tr>
+        <td></td>
+        <td><input type="submit" value="Üye ol" /> </td>
+
+    </tr>
+    <tr>
+        <td colspan="2" >
+            <div asp-validation-summary="All" ></div>
+        </td>
+    </tr>
+</table>
+
+</form>

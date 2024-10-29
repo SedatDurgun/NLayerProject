@@ -1,0 +1,29 @@
+﻿@using ApplicationLayer.Models.ViewModels
+@model UrunDetay_VM
+
+<table>
+    <tr>
+        <td><label asp-for="Resim" ></label></td>
+        <td><img src="~/UrunResimleri/@Model.Resim" width="360" height="170lpx" /></td>
+    </tr>
+    <tr>
+    <td><label asp-for="UrunAdi"></label></td>
+    <td>@Model.UrunAdi</td>
+    </tr>
+    <tr>
+        <td><label asp-for="Fiyat"></label></td>
+        <td>@Model.Fiyat</td>
+    </tr>
+    <tr>
+        <td><label asp-for="KategoriAdi"></label></td>
+        <td>@Model.KategoriAdi</td>
+    </tr>
+    <tr>
+        <td><label asp-for="Acıklama"></label></td>
+        <td>@Model.Acıklama</td>
+    </tr>
+    <tr>
+        <td><label asp-for="UrunVideo"></label></td>
+        <td><video src="~/UrunVideolari/@Model.UrunVideo" ></video></td>
+    </tr>
+</table>

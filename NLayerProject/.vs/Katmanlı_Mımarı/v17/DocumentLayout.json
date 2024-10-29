@@ -1,0 +1,561 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\views\\shared\\loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\views\\shared\\loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\views\\login\\yeniuyeekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\views\\login\\yeniuyeekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\views\\login\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\views\\urun\\urunguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\views\\urun\\urunguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\views\\urun\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\views\\urun\\urunekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\views\\urun\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\views\\urun\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\views\\urun\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\views\\kategori\\kategoriguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\views\\kategori\\kategoriguncelle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\views\\kategori\\kategoriekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\views\\kategori\\kategoriekle.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\views\\kategori\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\views\\adminpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\views\\adminpanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\controllers\\uruncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\controllers\\kategoricontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\adminpaneli\\controllers\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\adminpaneli\\controllers\\adminpanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86D0A-B625-4015-B06E-22F7BF4CA7AC}|Infrastructurel\\Infrastructurel.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\infrastructurel\\uruncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86D0A-B625-4015-B06E-22F7BF4CA7AC}|Infrastructurel\\Infrastructurel.csproj|solutionrelative:infrastructurel\\uruncontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D290FF26-9CE6-4F0A-AEC0-85284B283A44}|DomainLayer\\DomainLayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\domainlayer\\repositories\\abstract\\ibaserepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D290FF26-9CE6-4F0A-AEC0-85284B283A44}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\repositories\\abstract\\ibaserepositorycs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D290FF26-9CE6-4F0A-AEC0-85284B283A44}|DomainLayer\\DomainLayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\domainlayer\\enums\\kay\u0131tdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D290FF26-9CE6-4F0A-AEC0-85284B283A44}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\enums\\kay\u0131tdurumu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D290FF26-9CE6-4F0A-AEC0-85284B283A44}|DomainLayer\\DomainLayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\domainlayer\\entities\\concrete\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D290FF26-9CE6-4F0A-AEC0-85284B283A44}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\entities\\concrete\\urun.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AE1952-3C29-410F-B9FC-471A9A162784}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\applicationlayer\\models\\viewmodels\\yeniuyeeklevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AE1952-3C29-410F-B9FC-471A9A162784}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\models\\viewmodels\\yeniuyeeklevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AE1952-3C29-410F-B9FC-471A9A162784}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\applicationlayer\\models\\viewmodels\\kategorivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AE1952-3C29-410F-B9FC-471A9A162784}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\models\\viewmodels\\kategorivm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7AE1952-3C29-410F-B9FC-471A9A162784}|ApplicationLayer\\ApplicationLayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\applicationlayer\\automapper\\urunprojemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D7AE1952-3C29-410F-B9FC-471A9A162784}|ApplicationLayer\\ApplicationLayer.csproj|solutionrelative:applicationlayer\\automapper\\urunprojemapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\uyepaneli\\views\\uyepanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\uyepaneli\\views\\uyepanel\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\areas\\uyepaneli\\controllers\\uyepanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\areas\\uyepaneli\\controllers\\uyepanelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EBE86D0A-B625-4015-B06E-22F7BF4CA7AC}|Infrastructurel\\Infrastructurel.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\infrastructurel\\repository\\concrete\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EBE86D0A-B625-4015-B06E-22F7BF4CA7AC}|Infrastructurel\\Infrastructurel.csproj|solutionrelative:infrastructurel\\repository\\concrete\\baserepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|c:\\users\\sedat\\onedrive\\masa\u00FCst\u00FC\\github upload\\nlayerproject\\uilayer\\views\\home\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{62855095-B45B-40A1-8FF3-01F4B0AFC62C}|UILayer\\UILayer.csproj|solutionrelative:uilayer\\views\\home\\detay.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Program.cs",
+              "RelativeDocumentMoniker": "UILayer\\Program.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Program.cs",
+              "RelativeToolTip": "UILayer\\Program.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAEoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:37:35.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Urun\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Views\\Urun\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Urun\\_ViewStart.cshtml",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Views\\Urun\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:03:55.951Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UrunEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Urun\\UrunEkle.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Views\\Urun\\UrunEkle.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Urun\\UrunEkle.cshtml",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Views\\Urun\\UrunEkle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T19:32:41.051Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Urun\\Index.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Views\\Urun\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Urun\\Index.cshtml",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Views\\Urun\\Index.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T18:20:07.219Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UrunGuncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Urun\\UrunGuncelle.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Views\\Urun\\UrunGuncelle.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Urun\\UrunGuncelle.cshtml",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Views\\Urun\\UrunGuncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:08:22.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "UILayer\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:05:09.74Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Login\\Login.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Views\\Login\\Login.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Login\\Login.cshtml",
+              "RelativeToolTip": "UILayer\\Views\\Login\\Login.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T16:35:38.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "YeniUyeEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Login\\YeniUyeEkle.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Views\\Login\\YeniUyeEkle.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Login\\YeniUyeEkle.cshtml",
+              "RelativeToolTip": "UILayer\\Views\\Login\\YeniUyeEkle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T16:36:19.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "UILayer\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAADUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:21:43.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "UILayer\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:19:07.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Shared\\LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Views\\Shared\\LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Shared\\LoginPartial.cshtml",
+              "RelativeToolTip": "UILayer\\Views\\Shared\\LoginPartial.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACkAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T14:32:55.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KategoriGuncelle.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\KategoriGuncelle.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\KategoriGuncelle.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\KategoriGuncelle.cshtml",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\KategoriGuncelle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:18:06.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "KategoriEkle.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\KategoriEkle.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\KategoriEkle.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\KategoriEkle.cshtml",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\KategoriEkle.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:05:57.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\Index.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\Index.cshtml",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Views\\Kategori\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:05:26.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UrunController.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Controllers\\UrunController.cs",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Controllers\\UrunController.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Controllers\\UrunController.cs",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Controllers\\UrunController.cs",
+              "ViewState": "AQIAAGUAAAAAAAAAAAAIwHIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T19:01:10.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "KategoriController.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Controllers\\KategoriController.cs",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Controllers\\KategoriController.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Controllers\\KategoriController.cs",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Controllers\\KategoriController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwBUAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:10:44.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AdminPanel.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Controllers\\AdminPanel.cs",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Controllers\\AdminPanel.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Controllers\\AdminPanel.cs",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Controllers\\AdminPanel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T15:47:19.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "UrunContext.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\Infrastructurel\\UrunContext.cs",
+              "RelativeDocumentMoniker": "Infrastructurel\\UrunContext.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\Infrastructurel\\UrunContext.cs",
+              "RelativeToolTip": "Infrastructurel\\UrunContext.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:34:15.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IBaseRepositorycs.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\DomainLayer\\Repositories\\Abstract\\IBaseRepositorycs.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Repositories\\Abstract\\IBaseRepositorycs.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\DomainLayer\\Repositories\\Abstract\\IBaseRepositorycs.cs",
+              "RelativeToolTip": "DomainLayer\\Repositories\\Abstract\\IBaseRepositorycs.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:33:34.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Kay\u0131tDurumu.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\DomainLayer\\Enums\\Kay\u0131tDurumu.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Enums\\Kay\u0131tDurumu.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\DomainLayer\\Enums\\Kay\u0131tDurumu.cs",
+              "RelativeToolTip": "DomainLayer\\Enums\\Kay\u0131tDurumu.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:33:24.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Urun.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\DomainLayer\\Entities\\Concrete\\Urun.cs",
+              "RelativeDocumentMoniker": "DomainLayer\\Entities\\Concrete\\Urun.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\DomainLayer\\Entities\\Concrete\\Urun.cs",
+              "RelativeToolTip": "DomainLayer\\Entities\\Concrete\\Urun.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:33:11.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "YeniUyeEkleVM.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\ApplicationLayer\\Models\\ViewModels\\YeniUyeEkleVM.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Models\\ViewModels\\YeniUyeEkleVM.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\ApplicationLayer\\Models\\ViewModels\\YeniUyeEkleVM.cs",
+              "RelativeToolTip": "ApplicationLayer\\Models\\ViewModels\\YeniUyeEkleVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:32:43.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "UrunProjeMapper.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\ApplicationLayer\\AutoMapper\\UrunProjeMapper.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\AutoMapper\\UrunProjeMapper.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\ApplicationLayer\\AutoMapper\\UrunProjeMapper.cs",
+              "RelativeToolTip": "ApplicationLayer\\AutoMapper\\UrunProjeMapper.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACQAAABuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-29T09:32:02.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\AdminPanel\\Index.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\AdminPaneli\\Views\\AdminPanel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\AdminPaneli\\Views\\AdminPanel\\Index.cshtml",
+              "RelativeToolTip": "UILayer\\Areas\\AdminPaneli\\Views\\AdminPanel\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-27T15:47:31.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UyePanelController.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\UyePaneli\\Controllers\\UyePanelController.cs",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\UyePaneli\\Controllers\\UyePanelController.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\UyePaneli\\Controllers\\UyePanelController.cs",
+              "RelativeToolTip": "UILayer\\Areas\\UyePaneli\\Controllers\\UyePanelController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T12:07:46.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "UILayer\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAACcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:04:28.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UILayer\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UILayer\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAA0wEkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T16:31:18.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "KategoriVM.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\ApplicationLayer\\Models\\ViewModels\\KategoriVM.cs",
+              "RelativeDocumentMoniker": "ApplicationLayer\\Models\\ViewModels\\KategoriVM.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\ApplicationLayer\\Models\\ViewModels\\KategoriVM.cs",
+              "RelativeToolTip": "ApplicationLayer\\Models\\ViewModels\\KategoriVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-01T18:31:23.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\UyePaneli\\Views\\UyePanel\\Index.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Areas\\UyePaneli\\Views\\UyePanel\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Areas\\UyePaneli\\Views\\UyePanel\\Index.cshtml",
+              "RelativeToolTip": "UILayer\\Areas\\UyePaneli\\Views\\UyePanel\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-06T09:56:03.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "UILayer\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:21:32.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "BaseRepository.cs",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\Infrastructurel\\Repository\\Concrete\\BaseRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructurel\\Repository\\Concrete\\BaseRepository.cs",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\Infrastructurel\\Repository\\Concrete\\BaseRepository.cs",
+              "RelativeToolTip": "Infrastructurel\\Repository\\Concrete\\BaseRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAowCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T11:43:32.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Detay.cshtml",
+              "DocumentMoniker": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Home\\Detay.cshtml",
+              "RelativeDocumentMoniker": "UILayer\\Views\\Home\\Detay.cshtml",
+              "ToolTip": "C:\\Users\\sedat\\OneDrive\\Masa\u00FCst\u00FC\\Github Upload\\NLayerProject\\UILayer\\Views\\Home\\Detay.cshtml",
+              "RelativeToolTip": "UILayer\\Views\\Home\\Detay.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-30T09:04:24.62Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

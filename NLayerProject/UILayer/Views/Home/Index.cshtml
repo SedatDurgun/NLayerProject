@@ -1,0 +1,72 @@
+﻿@using ApplicationLayer.Models.ViewModels
+@using DomainLayer.Entities.Concrete
+@using Microsoft.AspNetCore.Identity
+@model IEnumerable<UrunVM>
+
+ @inject SignInManager<Uye> SignInManger // uye olmayan sepete ekleme yapamaz
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+@* <div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+ *@
+
+ <table>
+     @foreach(var urun in Model)
+    {
+        <tr>
+            <td><img src="~/UrunResimleri/@urun.Resim" width="120px" height="90px"><td> 
+            <td>@urun.UrunAdi</td>
+            <td>@urun.Fiyat</td>
+            <td>
+
+                <a asp-action="Detay" asp-route-id="@urun.UrunID" >Urun Detay</a>
+
+                        @if (SignInManger.IsSignedIn(User))
+                        {
+
+                    @* <a asp-area="UyePanel" asp-controller="Panel" asp-action="Sepet">Sepetim</a> *@
+
+                    <form method="post" asp-area="UyePanel" asp-controller="Panel" asp-action="SepeteEkle" >
+
+                        <input type="hidden" name="id" value="@urun.UrunID" />
+                        <input type="submit" value="Sepete Ekle" class="btn btn-dark" />
+
+                    </form>
+
+                        }
+                
+
+            </td>
+        </tr>
+}
+
+ </table>
+<br />
+<br />
+<br />
+<br />
+
+<div class="row row-cols-3 ">
+
+
+    @foreach (var item in Model)
+    {
+        <div class="col">
+            <div class="card text-center">
+                <img src="~/UrunResimleri/@item.Resim" />
+                <div class="card-body">
+                    <h4 class="card-title">@item.UrunAdi</h4>
+                    <p class="card-text">@item.Fiyat</p>
+                </div>
+            </div>
+        </div>
+    }
+
+
+
+</div>

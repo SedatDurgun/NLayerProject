@@ -1,0 +1,51 @@
+﻿@using ApplicationLayer.Models.ViewModels
+@model IEnumerable<UrunVM>
+
+    <script>
+        function KayıtSilinsinMi() 
+        {
+            return confirm("Ürün Silinsin Mi?")
+
+        }
+
+
+    </script>
+<div>
+    <h2>Tüm Urunler Listesi</h2>
+    <br />
+    <a asp-action="UrunEkle" class="btn btn-danger" >UrunEkle </a>
+    <br />
+
+ <table class="table table-striped" >
+     @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                <img src="~/UrunResimleri/@item.Resim" width="200px" height="160px" />
+            </td>
+            <td>
+                @item.UrunAdi
+            </td>
+            
+            <td>
+              @item.Fiyat
+            </td>
+
+            <td>
+                <a asp-action="UrunGuncelle" asp-route-id="@item.UrunID" class="btn btn-dark" >Güncelle</a>
+
+
+                    <form asp-action="UrunSil" method="post" >  
+                        <input type="hidden" value="@item.UrunID" name="id" />
+                       <input type="submit" value="Ürün Sil" onclick="return KayıtSilinsinMi()" />
+                        </form>
+
+            </td>
+        </tr>
+        
+    }
+
+
+ </table>
+
+</div>

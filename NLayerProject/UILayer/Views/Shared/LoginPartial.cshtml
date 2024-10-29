@@ -1,0 +1,56 @@
+﻿@* Viewlerde Dependency  Injection Kullanımı *@
+@using DomainLayer.Entities.Concrete
+@using Microsoft.AspNetCore.Identity
+
+@inject SignInManager<Uye> SignInManager
+@inject UserManager<Uye> UserManager
+
+
+    <ul class="nav-bar" >
+    @* @{
+        bool YoneticiMi = await UserManager.IsInRoleAsync(await UserManager.GetUserAsync(User), "Admin");
+    } *@
+        @if(SignInManager.IsSignedIn(User))
+        {
+            @* User -Login  *@
+
+            <li class="nav-item" >
+                <p>Hoşgeldin @User.Identity?.Name</p>
+
+            </li>
+
+            @* User Role?  *@
+        @if (await UserManager.IsInRoleAsync(await UserManager.GetUserAsync(User), "Admin"))
+        {
+            <li class="nav-item" >
+                <a class="nav-link text-dark" asp-area="AdminPaneli" asp-controller="Panel" asp-action="Index" >Yonetici Paneli</a>
+            </li>
+        }
+        else
+        {
+            <li class="nav-item" >
+                <a class="nav-link text-dark " asp-area="UyePaneli" asp-controller="Panel" asp-action="Index">Sepetim</a>
+            </li>
+        }
+        <li class="nav-item" >
+                <a class="nav-link text-dark  " asp-controller="Login" asp-action="Login"  >Giriş   Yap</a>
+            </li>
+            <li class="nav-item" >
+                <a class="nav-link text-dark " asp-controller="Login" asp-action="Logout"  >Çıkış Yap</a>
+            </li>
+        }
+       
+        else
+        {
+            <li class="nav-item" >
+                <a class="nav-link text-dark " asp-controller="Login" asp-action="Login" >Giriş Yap </a>
+            </li>
+            <li class="nav-link" >
+                <a class="nav-link text-dark " asp-controller="Login" asp-action="YeniUyeEkle" ></a>
+            </li>
+        }
+
+
+
+
+    </ul>

@@ -1,0 +1,42 @@
+﻿
+@using ApplicationLayer.Models.ViewModels
+@using UILayer.Models
+
+@model  KategoriVM
+<h1>Kategori Güncelleme Sayfası</h1>
+
+<div style="width:400px; background :gray">
+    <form method="post" asp-controller="Kategori" asp-action="KategoriGuncelle">
+
+        <table border="1" class="table">
+
+            <tr>
+
+                <td><label asp-for="KategoriID"  ></label></td>
+                <td><input type="text" asp-for="KategoriID"  /></td>
+               
+
+            </tr>
+            <tr>
+                <td><label asp-for="KategoriAdi"></label></td>
+                <td><input asp-for="KategoriAdi" /></td>
+
+            </tr>
+
+            <tr>
+                <td>
+                    <input type="submit" value="Kategori Guncelle" class="btn btn-dark" />
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                    <div asp-validation-summary="All"></div>
+                </td>
+            </tr>
+
+        </table>
+
+    </form>
+
+
+</div>

@@ -1,0 +1,17 @@
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\bin\Debug\net8.0\Infrastructurel.deps.json
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\bin\Debug\net8.0\Infrastructurel.runtimeconfig.json
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\bin\Debug\net8.0\Infrastructurel.dll
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\bin\Debug\net8.0\Infrastructurel.pdb
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\bin\Debug\net8.0\DomainLayer.dll
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\bin\Debug\net8.0\DomainLayer.pdb
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\Infrastructurel.csproj.AssemblyReference.cache
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\Infrastructurel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\Infrastructurel.AssemblyInfoInputs.cache
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\Infrastructurel.AssemblyInfo.cs
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\Infrastructurel.csproj.CoreCompileInputs.cache
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\Infrastr.D2CDD231.Up2Date
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\Infrastructurel.dll
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\refint\Infrastructurel.dll
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\Infrastructurel.pdb
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\Infrastructurel.genruntimeconfig.cache
+C:\Users\sedat\source\repos\Katmanlı_Mımarı\Infrastructurel\obj\Debug\net8.0\ref\Infrastructurel.dll

@@ -1,0 +1,29 @@
+﻿@using ApplicationLayer.Models.DTO_s
+@model LoginDTO
+<div>
+<form method="post" >
+
+<table>
+    <tr>
+        <td><label asp-for="Eposta" ></label></td>
+        <td><input asp-for="Eposta" type="email" class="form-control"  /></td>
+    </tr>
+
+    <tr>
+        <td><label asp-for="Sifre" ></label></td>
+        <td><input asp-for="Sifre" type="password" class="form-control" /></td>
+    </tr>
+    <tr>
+        <td colspan="2" ><input type="submit" value="Login" class="btn btn-primary"/></td>
+    </tr>
+    <tr>
+        <td colspan="2" ><a asp-action="YeniUyeEkle" >Üye Ol</a></td>
+
+    </tr>
+    <tr>
+        <td colspan="2" ><div asp-validation-summary="All" ></div></td>
+    </tr>
+</table>
+
+</form>
+</div>
